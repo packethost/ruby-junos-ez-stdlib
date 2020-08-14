@@ -8,7 +8,7 @@ Junos::Ez::Facts::Keeper.define( :personality ) do |ndev, facts|
   facts[:personality] = case examine   
   when /^(EX)|(QFX)|(OCX)/
     :SWITCH
-  when /^MX/
+  when /^(MX)|(JNP)/
     :MX
   when /^vMX/
     facts[:virtual] = true
