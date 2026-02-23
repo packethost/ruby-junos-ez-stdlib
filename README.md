@@ -1,6 +1,9 @@
 [![Gem Version](https://badge.fury.io/rb/junos-ez-stdlib.svg)](https://badge.fury.io/rb/junos-ez-stdlib)[![Dependency Status](https://gemnasium.com/badges/github.com/Juniper/ruby-junos-ez-stdlib.svg)](https://gemnasium.com/github.com/Juniper/ruby-junos-ez-stdlib)
 [![Build Status](https://travis-ci.org/Juniper/ruby-junos-ez-stdlib.svg?branch=master)](https://travis-ci.org/Juniper/ruby-junos-ez-stdlib)
 
+> [!WARNING]
+> With the upcoming EoL of Equinix Metal on June 30, 2026, this repo is being archived on July 1, 2026.
+
 # OVERVIEW
 
 Ruby framework to support Junos OS based device management automation.  
